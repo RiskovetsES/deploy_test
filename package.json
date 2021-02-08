@@ -1,0 +1,13 @@
+{
+  "name": "js_level2_gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
